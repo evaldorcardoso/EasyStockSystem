@@ -1,0 +1,10 @@
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\bin\Debug\EasyStockSystem.exe.config
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\bin\Debug\EasyStockSystem.exe
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\bin\Debug\EasyStockSystem.pdb
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\bin\Debug\EasyStockSystem.xml
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\obj\Debug\EasyStockSystem.frmPrincipal.resources
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\obj\Debug\EasyStockSystem.Resources.resources
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\obj\Debug\EasyStockSystem.vbproj.GenerateResource.Cache
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\obj\Debug\EasyStockSystem.exe
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\obj\Debug\EasyStockSystem.xml
+c:\users\evaldo\documents\visual studio 2012\Projects\EasyStockSystem\EasyStockSystem\obj\Debug\EasyStockSystem.pdb
